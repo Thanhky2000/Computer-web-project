@@ -1,7 +1,4 @@
-  <h1 align="center"><b>TTB STORE WEBSITE</b></h1>
-
-- ## TTB Store là một website về cửa hàng thiết bị điện tử.
-- ## Link demo: https://ttbstorevn.web.app/
+  <h1 align="center"><b>WEBSITE COMPUTER</b></h1>
 
 - ## ✨ **Tính năng**
 
